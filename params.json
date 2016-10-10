@@ -1,6 +1,6 @@
 {
   "name": "brujam.github.io",
   "tagline": "",
-  "body": "# brujam.github.io\r\n\r\nSite to showcase my personal repositories.\r\n\r\nProjects I've got;\r\n* https://github.com/brujam/personal-game-wiki\r\n  * Designed as a goal-discovery, -setting and -tracking tool.\r\n\r\nThings I've contributed to:\r\n* https://github.com/lucymhdavies/Lucy-as-a-Service\r\n",
+  "body": "# brujam.github.io\r\n\r\nSite to showcase my personal repositories.\r\n\r\nProjects I've got;\r\n* https://github.com/brujam/personal-game-wiki\r\n  * Designed as a goal-discovery, -setting and -tracking tool.\r\n  * View the tool here: https://brujam.github.io/personal-game-wiki/ - presently just an NEDB database inserter + insert-statement dumper.\r\n\r\nThings I've contributed to:\r\n* https://github.com/lucymhdavies/Lucy-as-a-Service\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
